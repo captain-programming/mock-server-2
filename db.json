@@ -1,20 +1,5 @@
 {
   "user": [
-    {
-      "id": 1,
-      "username": "user123",
-      "img": "https://pravatar.cc/",
-      "name": "xyz",
-      "email": "email@gmail.com",
-      "password": "password1234"
-    }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "text": "hii everyone",
-      "gif": "",
-      "username": "user123"
-    }
+    
   ]
 }
